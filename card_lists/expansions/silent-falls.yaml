@@ -1,1 +1,72 @@
-# Placeholder expansion file for Silent Falls
+# List of characters
+characters:
+    morgan:
+        full-name: Morgan Bridges
+    hollis:
+        full-name: Hollis Briarwood
+    jordan:
+        full-name: Jordan Foster
+    steven:
+        full-name: Steven Yates
+
+
+# List of suspects. Descriptions optional, colons are not.
+suspects:
+    john: John Briarwood
+    blake: Blake King
+    wayne: Wayne Prescott
+
+# List of locations. Descriptions optional, colons are not.
+locations:
+    boardwalk: Silent Falls Boardwalk
+    motel: Pine Harbour Motel
+    mines: The Abandoned Mines
+
+# List of searching cards. Descriptions optional, colons are not.
+searching:
+    battery: Your phone battery dies (don't text for 2 minutes)
+    photos: A pile of strange photographs
+    zipties: An open bag of zip ties
+    shoe: A girl's shoe
+    drugs: A significant amount of drugs
+
+clues:
+    90:
+        charlie:
+            1: Charlie returns to town
+        morgan:
+            2: Morgan returns to town
+    80:
+        4: You remember something strange
+        5: Looking thru recent picture you see someone strange
+    70:
+        4: Anonymous meeting
+        5: Place
+    60:
+        4: Lover
+        5: Wrong number
+    50:
+        4: Room
+        5: Scary place
+    45:
+        4: Body
+        5: Stranger danger
+    40:
+        4: Divno place
+        5: Investigator
+    35:
+        4: Mail
+        5: Alice?
+    # Culprit
+    30:
+        4: Freak home
+        5: Kidnapped
+    # Alice's location
+    20:
+        4: Kidnapped tape
+        5: Not so suspect after all
+    # Endings
+    10:
+        4: Runaway
+        5: Bad guy
+        6: Death is near

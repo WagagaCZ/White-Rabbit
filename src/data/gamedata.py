@@ -41,8 +41,8 @@ class Data:
 
         # Settings
         self.automatic = True
-        self.show_timer = False
-        self.stream_music = False
+        self.show_timer = True
+        self.stream_music = True
 
         # Enabled endings
         self.endings = {}
