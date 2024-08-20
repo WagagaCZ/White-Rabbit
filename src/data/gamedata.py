@@ -4,6 +4,7 @@ import discord
 # Local
 from data.cards import CHARACTERS, LOCATIONS, ROLES_TO_NAMES, SEARCHING, SUSPECTS
 from data.localization import LOCALIZATION_DATA
+from envvars import MUSIC
 
 # Message to send when reminding player
 TEN_MIN_REMINDER_TIME = 15
@@ -42,7 +43,7 @@ class Data:
         # Settings
         self.automatic = True
         self.show_timer = True
-        self.stream_music = True
+        self.stream_music = MUSIC
 
         # Enabled endings
         self.endings = {}
