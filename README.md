@@ -7,6 +7,7 @@
 [![License](https://img.shields.io/github/license/circumspect/White-Rabbit)](https://github.com/circumspect/White-Rabbit/blob/main/LICENSE)
 
 A Discord bot for Alice is Missing. Server template: <https://discord.new/SfcBdbyhGMmR>.
+DLC Server template <https://discord.new/JxgYBssqMZ3W>.
 This is a fan-made project which is not affiliated in any way with the creators of Alice is Missing.
 Game and all Alice is Missing images are property of
 [Hunters Entertainment](https://www.huntersentertainment.com/alice-is-missing).
